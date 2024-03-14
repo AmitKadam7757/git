@@ -10,6 +10,7 @@ sap.ui.define([
         return Controller.extend("forgit.controller.View1", {
             onInit: function () {
                 //update_1_branch
+                //update_2_branch
 
             }
         });
